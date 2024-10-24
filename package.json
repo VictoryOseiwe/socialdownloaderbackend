@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "instagram-url-direct": "^1.0.20",
+    "nayan-media-downloader": "^2.6.2",
+    "rahad-media-downloader": "^2.1.14",
+    "tiktokapi-src": "^1.2.0",
+    "tiktokdl": "^0.0.5"
+  }
+}
